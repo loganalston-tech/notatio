@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQCAAgAAAAgZKjsMXW5/Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Color Swatch"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
